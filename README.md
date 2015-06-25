@@ -1,4 +1,4 @@
-# Ars minora
+# De artibus parvis
 
 This is my personal blog. It is currently empty.
 
