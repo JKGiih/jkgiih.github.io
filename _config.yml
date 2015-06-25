@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Ars minora'
+tagline:          ''
+description:      '"I do not labor within the scope of any domain. My only labor is in eternity itself." - Antonin Artaud'
+url:              https://github.com/jkgiih
+baseurl:          /
+
+author:
+  name:           'J. K. Giih'
+  url:            https://github.com/jkgiih
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/jkgiih/jkgiih.github.io
